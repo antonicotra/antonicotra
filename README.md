@@ -37,8 +37,17 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" />
     </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60" />
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node.js" width="60" height="60" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="60" height="60" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="60" height="60" />
+    </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="python" width="60" height="60" />
     </a>
 </p>
 <!---
