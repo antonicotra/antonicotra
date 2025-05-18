@@ -46,8 +46,11 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="60" height="60" />
     </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/376344/python.svg" alt="python" width="60" height="60" />
+    <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="angular" width="60" height="60" />
+    </a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="60" height="60" />
     </a>
 </p>
 <!---
