@@ -41,7 +41,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node.js" width="60" height="60" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="60" height="60" />
+        <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="javascript" width="60" height="60" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="60" height="60" />
